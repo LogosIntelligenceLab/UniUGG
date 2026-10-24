@@ -7,7 +7,7 @@ Encoding</h1>
 <a href="https://arxiv.org/abs/2508.11952" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-UniUGG-red?logo=arxiv" height="20" />
 </a>
-<a href="https://fudan-zvg.github.io/UniUGG/" target="_blank">
+<a href="https://logosintelligencelab.github.io/UniUGG/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-UniUGG-blue.svg" height="20" />
 </a></br>
 
@@ -41,7 +41,7 @@ Encoding</h1>
 
 </div>
 
-## 🎞️ [Demo Video](https://fudan-zvg.github.io/UniUGG/assets/demo.mp4)
+## 🎞️ [Demo Video](https://logosintelligencelab.github.io/UniUGG/assets/demo.mp4)
 
 
 
