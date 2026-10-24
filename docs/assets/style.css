@@ -2047,3 +2047,10 @@ margin-bottom: -10px;
   border-radius: 8px;
   box-shadow: inset 0 1px 3px rgba(225, 232, 237, 0.05)
 }
+/* Keep the project header and paper/code buttons visible at every viewport size. */
+.hero-header { width: 100%; height: auto; min-height: 50vh; left: 0; top: 0; overflow: visible; }
+.hero-content { width: 100%; box-sizing: border-box; }
+@media (max-width: 600px) {
+  .hero-header { padding: 32px 16px; }
+  .hero-content { padding: 16px 0; }
+}
