@@ -15,7 +15,7 @@ The code has been modified and extended to support our task and framework. We th
 
 Please follow the instructions below to install the repo and dependencies.
 ```bash
-git clone https://github.com/fudan-zvg/UniUGG.git
+git clone https://github.com/LogosIntelligenceLab/UniUGG.git
 cd UniUGG
 ```
 
